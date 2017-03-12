@@ -1,0 +1,28 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "description": "simple blog app running on node, express, postgres and pug.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizardoftomorrow/blog-app.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "postgres",
+    "pug",
+    "blog",
+    "fullstack",
+    "javascript"
+  ],
+  "author": "Wizard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wizardoftomorrow/blog-app/issues"
+  },
+  "homepage": "https://github.com/wizardoftomorrow/blog-app#readme"
+}
